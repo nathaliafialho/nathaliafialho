@@ -1,4 +1,4 @@
-### Welcome! My name is Nathália. 👋
+### Welcome! 👋
 
   
 Hi! My name is Nathália da Silva Fialho.  
