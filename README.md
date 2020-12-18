@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathalia Fialho</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathaliafialho" alt="nathaliafialho" /> </p>
 
 <p align="left">
