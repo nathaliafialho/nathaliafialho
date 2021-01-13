@@ -5,7 +5,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliafialho&layout=compact)](https://github.com/nathaliafialho/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliafialho&layout=compact&theme=dark)](https://github.com/nathaliafialho/github-readme-stats)
 
 
 
