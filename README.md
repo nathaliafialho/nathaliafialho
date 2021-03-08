@@ -5,7 +5,9 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliafialho&layout=compact&theme=dark)](https://github.com/nathaliafialho/github-readme-stats)
+<a href="https://github.com/nathaliafialho">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliafialho&theme=radical&hide=glsl,python" />
+</a>
 
 
 
