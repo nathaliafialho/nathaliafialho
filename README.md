@@ -33,9 +33,10 @@
 </p>
 
 
-
+<!--
 <p align="center">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/fialhonathalia/"/> 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nathaliafialho/"/> 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/nathaliafsp_/ " /> 
 </p>
+-->
