@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathaliafialho" alt="nathaliafialho"/> </p>
 
 
-<p align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1598364417/10264/partykeanu.gif" width="60" height="60"/> </p>
+<!-- <p align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1598364417/10264/partykeanu.gif" width="60" height="60"/> </p> -->
 
 
 
