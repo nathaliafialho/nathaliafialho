@@ -1,9 +1,9 @@
 <h1 align="center"> Olá 👋 </h1>
 
  
-- Gaúcha, 23 years 🧉
-- Computer Engineering - Federal University of Pampa (UNIPAMPA)
-- Tutorial Education Program (PET Engineering)
+- Gaúcha, 23 anos 🧉
+- Engenharia da Computação - Universidade Federal do Pampa (Bagé)
+- Programa de Educação Tutorial (PET Engenharias)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathaliafialho" alt="nathaliafialho"/> </p>
 
