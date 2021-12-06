@@ -3,8 +3,7 @@
  
 - Gaúcha, 23 anos 🧉
 - Engenharia da Computação - Universidade Federal do Pampa (Bagé)
-- Programa de Educação Tutorial (PET Engenharias)
-- Análise e Exploração de Dados 
+- Programa de Educação Tutorial (PET Engenharias) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathaliafialho" alt="nathaliafialho"/> </p>
 
