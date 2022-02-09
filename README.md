@@ -1,7 +1,7 @@
 <h1 align="center"> Olá 👋 </h1>
 
  
-- Gaúcha, 23 anos 🧉
+- Gaúcha, 24 anos 🧉
 - Engenharia da Computação - Universidade Federal do Pampa (Bagé)
 - Programa de Educação Tutorial (PET Engenharias) 
 
