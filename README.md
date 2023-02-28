@@ -1,9 +1,9 @@
 <h1 align="center"> Olá 👋 </h1>
 
  
-- Gaúcha, 24 anos 🧉
-- Engenharia da Computação - Universidade Federal do Pampa (Bagé)
-- Programa de Educação Tutorial (PET Engenharias) 
+- Gaúcha, 25 anos 🧉
+- Análise e Desenvolvimento de Sistemas 💻
+- Front-End 💀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathaliafialho" alt="nathaliafialho"/> </p>
 
